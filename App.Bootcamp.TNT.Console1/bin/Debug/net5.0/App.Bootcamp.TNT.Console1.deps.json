@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "App.Bootcamp.TNT.Console1/1.0.0": {
+        "dependencies": {
+          "App.Bootcamp.TNT.Utils": "1.0.0"
+        },
+        "runtime": {
+          "App.Bootcamp.TNT.Console1.dll": {}
+        }
+      },
+      "App.Bootcamp.TNT.Utils/1.0.0": {
+        "runtime": {
+          "App.Bootcamp.TNT.Utils.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "App.Bootcamp.TNT.Console1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "App.Bootcamp.TNT.Utils/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

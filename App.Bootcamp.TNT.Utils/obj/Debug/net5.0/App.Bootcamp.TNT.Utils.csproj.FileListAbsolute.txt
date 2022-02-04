@@ -1,0 +1,12 @@
+C:\Users\lucas.ribeiro\Desktop\TNT\Aula\LabAula4\App.Bootcamp.TNT\App.Bootcamp.TNT.Utils\bin\Debug\net5.0\App.Bootcamp.TNT.Utils.deps.json
+C:\Users\lucas.ribeiro\Desktop\TNT\Aula\LabAula4\App.Bootcamp.TNT\App.Bootcamp.TNT.Utils\bin\Debug\net5.0\App.Bootcamp.TNT.Utils.dll
+C:\Users\lucas.ribeiro\Desktop\TNT\Aula\LabAula4\App.Bootcamp.TNT\App.Bootcamp.TNT.Utils\bin\Debug\net5.0\ref\App.Bootcamp.TNT.Utils.dll
+C:\Users\lucas.ribeiro\Desktop\TNT\Aula\LabAula4\App.Bootcamp.TNT\App.Bootcamp.TNT.Utils\bin\Debug\net5.0\App.Bootcamp.TNT.Utils.pdb
+C:\Users\lucas.ribeiro\Desktop\TNT\Aula\LabAula4\App.Bootcamp.TNT\App.Bootcamp.TNT.Utils\obj\Debug\net5.0\App.Bootcamp.TNT.Utils.csproj.AssemblyReference.cache
+C:\Users\lucas.ribeiro\Desktop\TNT\Aula\LabAula4\App.Bootcamp.TNT\App.Bootcamp.TNT.Utils\obj\Debug\net5.0\App.Bootcamp.TNT.Utils.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas.ribeiro\Desktop\TNT\Aula\LabAula4\App.Bootcamp.TNT\App.Bootcamp.TNT.Utils\obj\Debug\net5.0\App.Bootcamp.TNT.Utils.AssemblyInfoInputs.cache
+C:\Users\lucas.ribeiro\Desktop\TNT\Aula\LabAula4\App.Bootcamp.TNT\App.Bootcamp.TNT.Utils\obj\Debug\net5.0\App.Bootcamp.TNT.Utils.AssemblyInfo.cs
+C:\Users\lucas.ribeiro\Desktop\TNT\Aula\LabAula4\App.Bootcamp.TNT\App.Bootcamp.TNT.Utils\obj\Debug\net5.0\App.Bootcamp.TNT.Utils.csproj.CoreCompileInputs.cache
+C:\Users\lucas.ribeiro\Desktop\TNT\Aula\LabAula4\App.Bootcamp.TNT\App.Bootcamp.TNT.Utils\obj\Debug\net5.0\App.Bootcamp.TNT.Utils.dll
+C:\Users\lucas.ribeiro\Desktop\TNT\Aula\LabAula4\App.Bootcamp.TNT\App.Bootcamp.TNT.Utils\obj\Debug\net5.0\ref\App.Bootcamp.TNT.Utils.dll
+C:\Users\lucas.ribeiro\Desktop\TNT\Aula\LabAula4\App.Bootcamp.TNT\App.Bootcamp.TNT.Utils\obj\Debug\net5.0\App.Bootcamp.TNT.Utils.pdb
